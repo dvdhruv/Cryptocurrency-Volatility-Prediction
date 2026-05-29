@@ -40,9 +40,13 @@ Forecast volatility variations to support risk management and decision-making.
 ## How to Run
 
 pip install -r requirements.txt
+
 python src/preprocess.py
+
 python src/train.py
+
 python src/feature_importance.py
+
 streamlit run app/app.py
 
 ## Author
