@@ -48,5 +48,7 @@ streamlit run app/app.py
 ## Author
 
 Author: Dhruv Varshney
+
 Project: Cryptocurrency Volatility Prediction Using Machine Learning
+
 Technologies: Python, Pandas, Scikit-Learn, XGBoost, Streamlit
